@@ -4,7 +4,7 @@
   <title>Zpracovaný úkol</title>
 </head>
 <body>
-body { cbackground-image: url(<%= image_path "http://orig14.deviantart.net/e267/f/2014/311/a/d/background_fire_theme_by_lockeliefather-d85ka9h.png" %>) }
+body { background-image: url(<%= image_path "http://orig14.deviantart.net/e267/f/2014/311/a/d/background_fire_theme_by_lockeliefather-d85ka9h.png" >) }
 
 <h1>Burning Man</h1>
  <a href="https://s-media-cache-ak0.pinimg.com/originals/78/f9/83/78f9837962ad988adc03d0b2fe59e5d9.jpg" target="_blank"><img src="https://s-media-cache-ak0.pinimg.com/originals/78/f9/83/78f9837962ad988adc03d0b2fe59e5d9.jpg" border="0"/></a>
