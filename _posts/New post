@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zpracovaný úkol</title>
+</head>
+<body>
+
+<h1>Cute cat</h1>
+ <a href="http://photobucket.com/images/lol%20cat" target="_blank"><img src="http://i1134.photobucket.com/albums/m612/Jesseforever69/Cats/c95632e1.jpg" border="0" alt="lol cat photo:  c95632e1.jpg"/></a>
+<!--obrázek ze serveru: http://photobucket.com-->
+
+<h1>Nature</h1>
+  <iframe width='600' height='434' src='https://pictures.lytro.com/NickRose/pictures/1004081/embed' frameborder='0' allowfullscreen scrolling='no'></iframe>
+<!--obrázek ze serveru: https://pictures.lytro.com/-->
+  
+<h1>Cat</h1>
+ <a href="http://www.downloadfeast.com/wp-content/uploads/2016/05/cats/catcat-cat.gif" target="_blank"><img src="http://www.downloadfeast.com/wp-content/uploads/2016/05/cats/catcat-cat.gif" border="0"/></a>
+<!--gif je ze serveru: https://www.catgifpage.com/-->
+
+</body>
+</html>
