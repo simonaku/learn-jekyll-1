@@ -4,11 +4,25 @@
   <title>Zpracovaný úkol</title>
   <meta charset="utf-8">
  <style>  
- { .theBlackBackground {background-color:#000;color: red;}
+ { theBlackBackground {background-color:#000;color: red;}
   </style>
   
 </head>
 <body>
+
+<textarea id="source">
+
+class: middle, center, theBlackBackground
+# Title
+</textarea>
+
+ <script src="http://gnab.github.io/remark/downloads/remark-latest.min.js" type="text/javascript">
+</script>
+ <script type="text/javascript">
+      var slideshow = remark.create();
+ </script>
+
+
 
 <h1>Burning Man</h1>
  <a href="https://s-media-cache-ak0.pinimg.com/originals/78/f9/83/78f9837962ad988adc03d0b2fe59e5d9.jpg" target="_blank"><img src="https://s-media-cache-ak0.pinimg.com/originals/78/f9/83/78f9837962ad988adc03d0b2fe59e5d9.jpg" border="0"/></a>
