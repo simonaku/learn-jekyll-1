@@ -4,7 +4,9 @@
   <title>Zpracovaný úkol</title>
 </head>
 <body>
-
+ {
+    background-color: lightblue;
+}
 <h1>Burning Man</h1>
  <a href="https://s-media-cache-ak0.pinimg.com/originals/78/f9/83/78f9837962ad988adc03d0b2fe59e5d9.jpg" target="_blank"><img src="https://s-media-cache-ak0.pinimg.com/originals/78/f9/83/78f9837962ad988adc03d0b2fe59e5d9.jpg" border="0"/></a>
 
