@@ -7,7 +7,12 @@
 .header {
 	padding: 80px 0;
 	border-bottom: solid;
+	background-image: url('/css/believe.jpg');
 }
+
+  
+
+
 
 .content {
 	float: right;
