@@ -9,7 +9,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: '/css/believe.jpg'
+  background-image: url('/css/believe.jpg')
   
 }
 
