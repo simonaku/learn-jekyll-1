@@ -9,7 +9,9 @@
 	border-bottom: solid;
 	background-image: url('/css/believe.jpg');
 }
-
+header {
+  background-image: url('{{ http://yacchan.link/wp-content/uploads/2015/07/believe.jpg }}');
+}
   
 
 
