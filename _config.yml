@@ -16,12 +16,21 @@
 title: Burning Man
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
+  
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burning-Man.svg/1200px-Burning-Man.svg.png"
+
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+title-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burning-Man.svg/1200px-Burning-Man.svg.png"
+
 baseurl: "/learn-jekyll" # the subpath of your site, e.g. /blog
 url: "https://jan-martinek.github.io/learn-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
-background-image: url('http://yacchan.link/wp-content/uploads/2015/07/believe.jpg')
+background-image: "http://yacchan.link/wp-content/uploads/2015/07/believe.jpg"
 
 # Build settings
 markdown: kramdown
