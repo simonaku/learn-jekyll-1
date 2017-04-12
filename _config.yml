@@ -31,7 +31,6 @@ title-img: "/css/avatar-icon.png"
 
 baseurl: "/learn-jekyll" # the subpath of your site, e.g. /blog
 url: "https://jan-martinek.github.io/learn-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
-background-image: "http://yacchan.link/wp-content/uploads/2015/07/believe.jpg"
 
 # Build settings
 markdown: kramdown
@@ -41,4 +40,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - mock/*
-background-image: url('http://yacchan.link/wp-content/uploads/2015/07/believe.jpg')
