@@ -23,6 +23,7 @@ baseurl: "/learn-jekyll" # the subpath of your site, e.g. /blog
 url: "https://jan-martinek.github.io/learn-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/28eAc9d/4k-abstract-looped-background-fire_nv1qruetx__S0000.jpg')
 markdown: kramdown
 gems:
   - jemoji
