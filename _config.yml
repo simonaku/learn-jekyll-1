@@ -26,7 +26,7 @@ avatar: "/css/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burning-Man.svg/1200px-Burning-Man.svg.png"
+title-img: "/css/avatar-icon.png"
 
 baseurl: "/learn-jekyll" # the subpath of your site, e.g. /blog
 url: "https://jan-martinek.github.io/learn-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
