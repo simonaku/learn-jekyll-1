@@ -4,6 +4,14 @@
 	padding: 20px;
 }
 
+body {
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 18px;
+  color: #404040;
+  position: relative;
+  background: #ff3333;
+}
+
 .header {
 	padding: 300px 0;
 	border-bottom: solid;
