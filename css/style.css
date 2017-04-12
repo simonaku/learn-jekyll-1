@@ -5,11 +5,11 @@
 }
 
 body {
-  font-family: 'Lora', 'SCRIPTINA', serif;
+  font-family: 'Lora', 'Times Sans Serif', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
-  background-image: '/img/believe.jpg'
+  background: '/img/believe.jpg'
   
 }
 
