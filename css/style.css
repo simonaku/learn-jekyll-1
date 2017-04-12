@@ -9,7 +9,8 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: #ff3333;
+  background-image: '/css/believe.jpg'
+  
 }
 
 .header {
