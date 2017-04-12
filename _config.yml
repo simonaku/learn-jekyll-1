@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burning-Man.svg/1200px-Burning-Man.svg.png"
+avatar: "/css/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
