@@ -5,11 +5,12 @@
 }
 
 .header {
-	padding: 80px 0;
+	padding: 300px 0;
 	border-bottom: solid;
-	background-image: url('/css/believe.jpg');
+	background-image: /css/believe.jpg;
 }
-header {
+
+.header {
   background-image: url('{{ http://yacchan.link/wp-content/uploads/2015/07/believe.jpg }}');
 }
   
