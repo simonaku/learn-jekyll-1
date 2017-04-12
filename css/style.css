@@ -10,6 +10,9 @@ body {
   color: #404040;
   position: relative;
   background-image: url("http://yacchan.link/wp-content/uploads/2015/07/believe.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
   
 	  
 }
