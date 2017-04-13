@@ -25,15 +25,19 @@ body {
 
  /* horní panel = navbar*/
  
- <ul>
-  <li><a href="default.asp">Home</a></li>
-  <li><a href="news.asp">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
-</ul> 
+.content {
+	float: right;
+	width: 75%;
+	border-left: solid;
+	padding-left: 30px;
+}
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+nav {
+	float: left;
+	width: 15%;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
 }
