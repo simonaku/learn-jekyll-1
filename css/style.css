@@ -25,6 +25,11 @@ body {
 
  /* horní panel = navbar*/
  
+
+li {
+    display: inline;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
