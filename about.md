@@ -57,7 +57,17 @@ bude se to podobat oficiálnímu webu BM, s odlišnými vizuálními prvky.
 
 Základní obsah k tématu    
 ------------------------------------------
-
+* zajímavé fotky a videa - resp. odkazy na autory
+* 10 principů  
+* tipy na to, jak tam přežít - https://medium.com/@michalpastier/slovaci-na-festivale-burning-man-bez-drog-3c213f16c4f3    
+* Black Rock City  
+* hudba  
+* historie  
+* Temples: http://www.huffingtonpost.com/2014/04/24/burning-man-temples_n_5045128.html  
+* umění (sochy, oblečení, alegorické vozy, ...)
+* vstupenky, příprava na festival, ...
+* spontánnost festivalu, vše je pomíjivé
+* organizátoři a sponzoři BM
 
 Strategie zveřejňování obsahu   
 ------------------------------------------
