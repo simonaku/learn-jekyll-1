@@ -53,7 +53,7 @@ https://ozorafestival.eu/  v Maďarsku
  
 Vizuální inspirace pro budoucí vzhled webu  
 ------------------------------------------
-
+bude se to podobat oficiálnímu webu BM, s odlišnými vizuálními prvky.
 
 Základní obsah k tématu    
 ------------------------------------------
