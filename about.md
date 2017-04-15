@@ -60,7 +60,7 @@ Základní obsah k tématu
 * zajímavé fotky a videa - resp. odkazy na autory
 * 10 principů  
 * tipy na to, jak tam přežít - https://medium.com/@michalpastier/slovaci-na-festivale-burning-man-bez-drog-3c213f16c4f3    
-* Black Rock City  
+* Black Rock City   /*  Regardless of Burning Man Festival's temporary status it boasts a remarkable population, with over 47,366 dwellers in 2007, making it the third largest city in Nevada.  */
 * hudba  
 * historie  
 * Temples: http://www.huffingtonpost.com/2014/04/24/burning-man-temples_n_5045128.html  
