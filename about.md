@@ -67,7 +67,7 @@ Základní obsah k tématu
 * umění (sochy, oblečení, alegorické vozy, ...)
 * vstupenky, příprava na festival, ...
 * spontánnost festivalu, vše je pomíjivé
-* organizátoři a sponzoři BM
+* organizátoři a sponzoři BM (http://siliconvillageburners.org/)
 
 Strategie zveřejňování obsahu   
 ------------------------------------------
