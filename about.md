@@ -10,7 +10,7 @@ title: About
 Tato stránka je určena všem lidem, kteří se zajímají o tento festival. A hlavně všem mladým lidem s touhou bavit se.   
 
 **Cíl webu**   
-Naším cílem je shrnout poznatky o festivalu, shromáždit zajímavé odkazy a přiblížit téma všem zájemcům i lidem, které toto téma zajímá.
+Naším cílem je shrnout poznatky o festivalu, shromáždit zajímavé odkazy a přiblížit téma všem zájemcům i lidem, které toto téma zajímá a třeba poskytnout i pár cenných rad.  
 
 **Název**    
 Burning Man
@@ -37,29 +37,25 @@ videa:
 https://www.youtube.com/watch?v=IP1fh9iO5yo    
 https://www.youtube.com/watch?v=IWR45bt0YjU    
   
-podobné festivaly
+podobné festivaly:  
 https://www.tomorrowland.com/global/ v Evropě      
 https://ozorafestival.eu/ v Maďarsku      
 
 **Vizuální inspirace pro budoucí vzhled webu**   
-Web se bude podobat oficiálnímu webu BM, s odlišnými vizuálními prvky.
+Web se bude podobat oficiálnímu webu BM, s odlišnými vizuálními prvky.  
 
 **Základní obsah k tématu**    
+* Black Rock City   /*  Regardless of Burning Man Festival's temporary status it boasts a remarkable population, with over 47,366 dwellers in 2007, making it the third largest city in Nevada.  */
 * zajímavé fotky a videa - resp. odkazy na autory
 * 10 principů  
-* tipy na to, jak tam přežít - https://medium.com/@michalpastier/slovaci-na-festivale-burning-man-bez-drog-3c213f16c4f3    
-* Black Rock City   /*  Regardless of Burning Man Festival's temporary status it boasts a remarkable population, with over 47,366 dwellers in 2007, making it the third largest city in Nevada.  */
-* hudba  
-* historie  
-* Temples: http://www.huffingtonpost.com/2014/04/24/burning-man-temples_n_5045128.html  
-* umění (sochy, oblečení, alegorické vozy, ...)
-* vstupenky, příprava na festival, ...
-* spontánnost festivalu, vše je pomíjivé
-* organizátoři a sponzoři BM (http://siliconvillageburners.org/)
+* Umění: sochy, oblečení, alegorické vozy, ...
+* Hudba  
+* Historie  
+* Temples /* http://www.huffingtonpost.com/2014/04/24/burning-man-temples_n_5045128.html */ 
+* Spontánnost festivalu, vše je pomíjivé
+* Vstupenky, příprava na festival, ...
+* Tipy na to, jak přežít /* https://medium.com/@michalpastier/slovaci-na-festivale-burning-man-bez-drog-3c213f16c4f3 */  
+* Organizátoři a sponzoři BM /*(http://siliconvillageburners.org/) */  
 
-Strategie zveřejňování obsahu   
-------------------------------------------
-
-
-
-Pravidelné přispívání články, fotky, videi. Info o novinkách a nadcházejících událostech i  pohled do historie festivalu.   
+**Strategie zveřejňování obsahu**  
+Informace budeme zveřejňovat pomocí služby GitHub pages a Jekyll. Informace a posty budeme zveřejňovat pomocí krátkých příspěvků.   
