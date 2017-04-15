@@ -29,7 +29,7 @@ otištěné články v časopisech, např. reflex
 dokumentární filmy: http://topdocumentaryfilms.com/burning-man/ a  https://www.youtube.com/watch?v=H0NdVn2O1WY  
 Marek Musil: http://burningman.marekmusil.com/  
 
-**dostupná multimédia**    
+**Dostupná multimédia**    
 http://www.scottlondon.com/photography/burningman/  
 https://www.theatlantic.com/photo/2016/09/photos-from-burning-man-2016/498371/  
 http://galleries.burningman.org/plugins/burningman/pages/intro.php?restypes=1   official BM gallery  
