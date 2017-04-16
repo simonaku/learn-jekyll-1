@@ -27,7 +27,7 @@ Burning Man Journal
 Victor Habchy photography  
 otištěné články v časopisech, např. reflex  
 dokumentární filmy: <http://topdocumentaryfilms.com/burning-man/> a <https://www.youtube.com/watch?v=H0NdVn2O1WY>  
-Marek Musil photography /*http://burningman.marekmusil.com/*/  
+Marek Musil photography /*<http://burningman.marekmusil.com/>*/  
 
 **Dostupná multimédia**    
 <http://www.scottlondon.com/photography/burningman/>  
