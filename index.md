@@ -3,12 +3,13 @@ layout: page
 title: Home
 ---
 
-# Město v poušti. Kultura možností. Síť snílků a mužů činu.
+# A city in the desert. A culture of possibility. A network of dreamers and doers.
 
 Tato stránka se zabývá skvělým festivalem Burning Man.
 
-### A city in the desert. A culture of possibility. A network of dreamers and doers.
->Na této stránce se dozvíte základní i zajímavé informace o festivalu.
+### Město v poušti. Kultura možností. Síť snílků a mužů činu.
+
+
 
 ## Posts
 
