@@ -4,7 +4,7 @@ title: O projektu
 ---
 <!-- toto je poznámka v HTML -->
 
-**About us**
+**O projektu**
 ===========
 
 **Cílová skupina**  
