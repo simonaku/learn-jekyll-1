@@ -38,8 +38,8 @@ Bezprostřední zkušenost je, v mnoha ohledech, nejdůležítějším prubířs
 <iframe width='600' height='434' src='http://www.cestujzadara.cz/cestopisy/amerika/cestopisy-z-usa/festival-burning-man-v-nevade/burning-man-ccn-jpg.jpg='no'></iframe>
 
 Odkazy:
- <a href="https://burningman.org/culture/philosophical-center/10-principles/"</a>
-<a href="https://burningman.org/culture/philosophical-center/"</a>
+<https://burningman.org/culture/philosophical-center/10-principles/>
+<https://burningman.org/culture/philosophical-center/>
 
  
 

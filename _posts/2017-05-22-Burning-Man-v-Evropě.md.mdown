@@ -12,8 +12,8 @@ Tak co zůčastnite se festivalu Where the Sheep Sleep? Stačí se přidat do fa
  <iframe width='600' height='434' src='http://burningman.nl/wp-content/uploads/2016/04/2016-WTSS_BMNL_0032.jpg='no'></iframe>
 
 Odkazy:
- <a href="http://burningman.nl/where-the-sheep-sleep/"</a>
-<a href="http://burningman.nl/"</a>
+<http://burningman.nl/where-the-sheep-sleep/>
+<http://burningman.nl/>
 
  
 
